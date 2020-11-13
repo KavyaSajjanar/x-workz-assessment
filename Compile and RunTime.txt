@@ -1,0 +1,3 @@
+Compile Time: Source code is convert to byte code, this can be unserstood by java and create class file(.class).
+ex. 
+Run Time: Byte Code is convert to Binary code. and that can be understood by Machine.

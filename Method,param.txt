@@ -1,0 +1,9 @@
+Method: It contains set of statements, and execute statements , it helps to write logic, allows to reuse statements.
+ex. public static void acting(){
+}
+Prameter: it is in the method.
+public static void main(String[] names){
+}
+Argument:put in method.
+ex. StateFinder.finder(distance)
+return: return the value.

@@ -1,0 +1,10 @@
+Variable: Contain data values, and value may varies.
+Types of Variable:
+1.Local Variable
+2.Class variable
+Local variable: first we have to intialize and then declare value.
+ex. int size=20;
+System.out.println(size);
+
+Class variable:class variable defines property of class.
+ex. public static String[] emails={};

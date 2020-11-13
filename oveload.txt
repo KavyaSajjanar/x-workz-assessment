@@ -1,0 +1,5 @@
+method overloading: methods having same signature but difference in parameter.
+ex. public static void acting(String actorName){
+}
+ public static void acting(int noOfActors){
+}

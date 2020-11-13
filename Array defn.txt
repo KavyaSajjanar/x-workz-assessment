@@ -1,0 +1,3 @@
+Array: container that holds similar data type values.
+ex. String[] emails;
+String[] emails={"kavya11@gmail.com",kavya22@gmail.com};
